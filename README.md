@@ -6,5 +6,16 @@
 
 **It's** based on the cutted version of [**pybitcointools**](https://github.com/vbuterin/pybitcointools).
 
+## Install
+
+```bash
+git clone https://github.com/NotStatilko/BPG
+pip3 install -r requirements.txt
+```
+## Run
+```bash
+python3 btcPrivkeyGen.py
+```
+
 ![preview](https://telegra.ph/file/cef995945cb249e89a7ad.png)
 
